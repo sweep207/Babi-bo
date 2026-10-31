@@ -14,11 +14,11 @@
             <key>PayloadDisplayName</key>
             <string>LocketGold CA</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.security.root.42ed3d01-5a05-4105-a943-f321a97229b1</string>
+            <string>com.apple.security.root.22f35e04-db12-412d-a7af-796a3be62128</string>
             <key>PayloadType</key>
             <string>com.apple.security.root</string>
             <key>PayloadUUID</key>
-            <string>42ed3d01-5a05-4105-a943-f321a97229b1</string>
+            <string>22f35e04-db12-412d-a7af-796a3be62128</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -37,6 +37,7 @@
                 <array>
                     <string>api.revenuecat.com</string>
                     <string>firebaseremoteconfig.googleapis.com</string>
+                    <string>api.locketcamera.com</string>
                     <string>us-central1-locket-4252a.cloudfunctions.net</string>
                 </array>
             </dict>
@@ -45,11 +46,11 @@
             <key>PayloadDisplayName</key>
             <string>LocketGold DNS</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.dnsSettings.managed.8093068d-b96e-4f0c-a58b-7bf08c914a91</string>
+            <string>com.apple.dnsSettings.managed.b57db6ef-eb7d-4e55-a70c-d65525a067be</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>8093068d-b96e-4f0c-a58b-7bf08c914a91</string>
+            <string>b57db6ef-eb7d-4e55-a70c-d65525a067be</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -59,15 +60,13 @@
     <key>PayloadDisplayName</key>
     <string>Locket-Sweep💛</string>
     <key>PayloadIdentifier</key>
-    <string>com.camsitup.locket.tqthanh</string>
-    <key>PayloadOrganization</key>
-    <string>@sweep207</string>
+    <string>com.camsitup.locket.dns_profile.botauto</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>d0afcf6f-f25b-49ab-a04f-9a5fddac1fc8</string>
+    <string>5167d2d2-9d87-4108-af4d-d02ea99edb48</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>

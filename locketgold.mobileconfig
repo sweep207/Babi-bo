@@ -14,11 +14,11 @@
             <key>PayloadDisplayName</key>
             <string>LocketGold CA</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.security.root.22f35e04-db12-412d-a7af-796a3be62128</string>
+            <string>com.apple.security.root.42ed3d01-5a05-4105-a943-f321a97229b1</string>
             <key>PayloadType</key>
             <string>com.apple.security.root</string>
             <key>PayloadUUID</key>
-            <string>22f35e04-db12-412d-a7af-796a3be62128</string>
+            <string>42ed3d01-5a05-4105-a943-f321a97229b1</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -28,16 +28,16 @@
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
                 <key>ServerURL</key>
-                <string>https://doh.2707226.xyz/dns-query/common</string>
+                <string>https://doh.2707226.xyz/dns-query/RHN4WVh3TTFIbmUyTTcxbWtIWW9FMFZ5T1lqMQ.MFlLG1kUHKbrdrvNMtYG4cv-</string>
                 <key>ServerAddresses</key>
                 <array>
-                    <string>103.211.207.247</string>
+                    <string>172.67.146.35</string>
+                    <string>104.21.10.172</string>
                 </array>
                 <key>SupplementalMatchDomains</key>
                 <array>
                     <string>api.revenuecat.com</string>
                     <string>firebaseremoteconfig.googleapis.com</string>
-                    <string>api.locketcamera.com</string>
                     <string>us-central1-locket-4252a.cloudfunctions.net</string>
                 </array>
             </dict>
@@ -46,11 +46,11 @@
             <key>PayloadDisplayName</key>
             <string>LocketGold DNS</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.dnsSettings.managed.b57db6ef-eb7d-4e55-a70c-d65525a067be</string>
+            <string>com.apple.dnsSettings.managed.8093068d-b96e-4f0c-a58b-7bf08c914a91</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>b57db6ef-eb7d-4e55-a70c-d65525a067be</string>
+            <string>8093068d-b96e-4f0c-a58b-7bf08c914a91</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -60,13 +60,15 @@
     <key>PayloadDisplayName</key>
     <string>Locket-Sweep💛</string>
     <key>PayloadIdentifier</key>
-    <string>com.camsitup.locket.dns_profile.botauto</string>
+    <string>com.camsitup.locket.DsxYXwM1Hne2M71mkHYoE0VyOYj1</string>
+    <key>PayloadOrganization</key>
+    <string>@sweep207</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>5167d2d2-9d87-4108-af4d-d02ea99edb48</string>
+    <string>d0afcf6f-f25b-49ab-a04f-9a5fddac1fc8</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
